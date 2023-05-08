@@ -353,7 +353,13 @@
     background-size: cover;
     border-radius: 7px 7px 0 0;
   }
-  
+  .packages_section .packages .ladakh_packages_img {
+    background: url("images/ladakhdes.jpg");
+    height: 40vh;
+    width: 94%;
+    background-size: cover;
+    border-radius: 7px 7px 0 0;
+  }
   .packages_section .packages .amazing_packages_img {
     background: url("images/amazing1.jpg");
     height: 40vh;

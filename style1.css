@@ -353,6 +353,20 @@
     background-size: cover;
     border-radius: 7px 7px 0 0;
   }
+  .packages_section .packages .blissful_packages_img_amr {
+    background: url("images/amarnath.jpg");
+    height: 40vh;
+    width: 94%;
+    background-size: cover;
+    border-radius: 7px 7px 0 0;
+  }
+  .packages_section .packages .blissful_packages_img_gur {
+    background: url("images/gurez.jpg");
+    height: 40vh;
+    width: 94%;
+    background-size: cover;
+    border-radius: 7px 7px 0 0;
+  }
   .packages_section .packages .ladakh_packages_img {
     background: url("images/ladakhdes.jpg");
     height: 40vh;

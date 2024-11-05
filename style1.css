@@ -327,10 +327,10 @@
   
   /* Package Section */
   
-  .packages_section {
+  .Packages_section {
     margin: 0 3%;
   }
-  .packages_section .packages .scenic_packages_img {
+  .Packages_section .Packages .scenic_Packages_img {
     background: url("images/scenic.jpg");
     height: 40vh;
     width: 94%;
@@ -338,7 +338,7 @@
     border-radius: 7px 7px 0 0;
   }
   
-  .packages_section .packages .enchanting_packages_img {
+  .Packages_section .Packages .enchanting_Packages_img {
     background: url("images/enchanting.jpg");
     height: 40vh;
     width: 94%;
@@ -346,35 +346,35 @@
     border-radius: 7px 7px 0 0;
   }
   
-  .packages_section .packages .blissful_packages_img {
+  .Packages_section .Packages .blissful_Packages_img {
     background: url("images/honeymoon1.jpg");
     height: 40vh;
     width: 94%;
     background-size: cover;
     border-radius: 7px 7px 0 0;
   }
-  .packages_section .packages .blissful_packages_img_amr {
+  .Packages_section .Packages .blissful_Packages_img_amr {
     background: url("images/amarnath.jpg");
     height: 40vh;
     width: 94%;
     background-size: cover;
     border-radius: 7px 7px 0 0;
   }
-  .packages_section .packages .blissful_packages_img_gur {
+  .Packages_section .Packages .blissful_Packages_img_gur {
     background: url("images/gurez.jpg");
     height: 40vh;
     width: 94%;
     background-size: cover;
     border-radius: 7px 7px 0 0;
   }
-  .packages_section .packages .ladakh_packages_img {
+  .Packages_section .Packages .ladakh_Packages_img {
     background: url("images/ladakhdes.jpg");
     height: 40vh;
     width: 94%;
     background-size: cover;
     border-radius: 7px 7px 0 0;
   }
-  .packages_section .packages .amazing_packages_img {
+  .Packages_section .Packages .amazing_Packages_img {
     background: url("images/amazing1.jpg");
     height: 40vh;
     width: 94%;
@@ -462,7 +462,7 @@
     padding-top: 6px;
   }
   
-  .packages_data span h3 {
+  .Packages_data span h3 {
     color: brown;
   }
   
